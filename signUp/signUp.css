@@ -1,0 +1,97 @@
+body{
+    /* background-color: rgba(13, 13, 113, 0.418);  */
+    /* background-color: #f4fdff; */
+    /* background-color: #05204a;17 */
+    /* background-color: #6f8695; */
+    background-image: url(backgroud.png);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}#d1{
+    height: 650px;
+    width: 1000px;
+    margin-top: 30px;
+    border-radius: 30px 30px 30px 30px;
+    /* background-color: white; */
+
+}#i1{
+    height: 650px;
+    width: 500px;
+    float: left;
+    border-radius: 30px 0px 0px 30px;
+}#d2{
+    height: 650px;
+    width: 500px;
+    float: right;
+    background-color: white;
+    color: rgb(11, 11, 11);
+    border-radius: 0px 30px 30px 0px;
+}#i2{
+    height: 50px;
+    text-indent: 5px; 
+    margin-right: 22px; 
+    margin-top: 50px;
+    background-color: white;
+    border-top:0px white;
+    border-left:0px  white;
+    border-right:0px white;
+    border-bottom:1px solid rgb(0, 0, 0);
+    
+}#i3{
+    height: 50px;
+    text-indent: 5px; 
+    margin: 10px;
+    background-color: white;
+    border-top:0px white;
+    border-left:0px  white;
+    border-right:0px white;
+    border-bottom:1px solid rgb(0, 0, 0);
+}#i4{
+    height: 50px;
+    text-indent: 5px; 
+    margin: 10px;
+    background-color: white;
+    border-top:0px white;
+    border-left:0px  white;
+    border-right:0px white;
+    border-bottom:1px solid rgb(0, 0, 0);
+}#i5{
+    width: 35px;
+    height: 35px;
+    margin-top: 20px;
+    margin-left: -50px;
+    position: fixed;
+    cursor: pointer;
+}#i6{
+    margin-left: 30px;
+    margin-top: -20px; 
+    cursor: pointer;
+}#i7{
+    width: 200px;
+    height: 40px;
+    margin-top: 30px;
+    background-color: black;
+    color: aliceblue;
+    border-radius: 30px 30px 30px 30px;
+    border-top:0px white;
+    border-left:0px white;
+    border-right:0px white;
+    border-bottom:0px white;
+    /* opacity: 0.5; */
+    cursor: pointer;
+}#i8{
+    width: 100px;
+    height: 40px;
+    margin-top: 80px;
+    margin-left: -250px;
+    background-color: black;
+    color: white;
+    border-radius: 30px 30px 30px 30px;
+    border-top:0px white;
+    border-left:0px white;
+    border-right:0px white;
+    border-bottom:0px white;
+    cursor: pointer;
+}
